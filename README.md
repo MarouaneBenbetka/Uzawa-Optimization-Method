@@ -26,7 +26,7 @@ To use the Uzawa method in your projects, simply clone this repository and integ
 ## Requirements
 
 -   Python 3.x
--   NumPy (for numerical operations)
+-   NumPy
 -   Matplotlib
 
 ## Getting Started
